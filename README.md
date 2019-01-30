@@ -25,6 +25,6 @@
 ### 3. 시연 영상
 
 ```html
-  {% include vid.html id="g3cTnsA8sZ8url" %}  
+<iframe width="728" height="410" src="https://www.youtube.com/embed/g3cTnsA8sZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
