@@ -23,5 +23,5 @@
 
 
 ### 3. 시연 영상
-[![Video Label](http://img.youtu.be/g3cTnsA8sZ8/0.jpg)](https://youtu.be/g3cTnsA8sZ8?t=0s) 
+[![Video Label](http://img.youtube.com/g3cTnsA8sZ8/0.jpg)](https://youtu.be/g3cTnsA8sZ8?t=0s) 
 
