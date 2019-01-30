@@ -24,7 +24,5 @@
 
 ### 3. 시연 영상
 
-```html
 <iframe width="728" height="410" src="https://www.youtube.com/embed/g3cTnsA8sZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
 
